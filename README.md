@@ -200,7 +200,7 @@ Projeto acadêmico relacionado ao desenvolvimento e testes de software, envolven
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=LeonardoGodoy2005&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LeonardoGodoy2005&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LeonardoGodoy2005&show_icons=true&theme=tokyonight&layout=donut-vertical)](https://github.com/stats-organization/github-stats-extended)
 <br/>
 <br/>
 <br/>
