@@ -149,6 +149,14 @@ Aplicação web desenvolvida para gerenciamento de receitas e despesas, permitin
 
 ---
 
+#### 🎨 CreatorBox
+
+Plataforma web desenvolvida para criação e apresentação de conteúdos digitais, com foco em uma experiência moderna, intuitiva e interativa.
+
+**Tecnologias:** HTML, CSS, JavaScript e desenvolvimento web.
+
+---
+
 #### 🏠 Morada Mineira
 
 Aplicação web desenvolvida com foco em gerenciamento de informações e funcionalidades utilizando uma arquitetura moderna.
